@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shahm-creator
+- 👀 I’m interested in scratch and reprogramming pc
+- 🌱 I’m currently learning python and c++
+- 💞️ I’m looking to collaborate on scratch
+- 📫 How to reach me? You could in scratch as my username is shahm2
